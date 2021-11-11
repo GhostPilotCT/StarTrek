@@ -1,0 +1,24 @@
+{
+    "captains": [
+        "James Kirk",
+        "Jean Luc Picard",
+		"Benjamin Cisco",
+        "kathryn Janeway",
+		"Johnathan Archer",
+		"Gabriel Lorca",
+		"Christopher Pike",
+		"Saru",
+		"Michael Burnham"
+    ],
+    "first officers": [
+        "Spock",
+        "Johnathan Riker",
+        "Kira Nerys",
+        "Chakotay",
+		"Charles Tucker",
+		"Saru",
+		"Una",
+		"Michael Burnham",
+		"Sylvia Tilly"
+    ]
+}
